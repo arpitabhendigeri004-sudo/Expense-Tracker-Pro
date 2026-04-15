@@ -1,0 +1,501 @@
+id,date,category,amount,type,payment_method,month,month_name,day,weekday,is_expense
+1,2024-08-16,Shopping,3331.34,Expense,Net Banking,8,August,16,Friday,1
+2,2024-09-03,Shopping,4802.46,Expense,Net Banking,9,September,3,Tuesday,1
+3,2024-07-17,Food,1481.38,Expense,Cash,7,July,17,Wednesday,1
+4,2024-02-21,Shopping,4974.48,Expense,Cash,2,February,21,Wednesday,1
+5,2024-01-01,Rent,3803.78,Expense,Card,1,January,1,Monday,1
+6,2024-07-04,Shopping,4044.39,Expense,Cash,7,July,4,Thursday,1
+7,2024-10-30,Food,2218.36,Expense,Card,10,October,30,Wednesday,1
+8,2024-08-28,Entertainment,3826.14,Expense,Card,8,August,28,Wednesday,1
+9,2024-12-11,Food,3453.86,Expense,Cash,12,December,11,Wednesday,1
+10,2024-07-11,Shopping,2573.07,Expense,Net Banking,7,July,11,Thursday,1
+11,2024-04-09,Bills,4898.98,Expense,Net Banking,4,April,9,Tuesday,1
+12,2024-05-07,Travel,4774.39,Income,Card,5,May,7,Tuesday,0
+13,2024-07-01,Bills,2138.39,Income,Cash,7,July,1,Monday,0
+14,2024-09-29,Travel,2359.67,Income,Net Banking,9,September,29,Sunday,0
+15,2024-12-25,Food,3494.25,Income,Card,12,December,25,Wednesday,0
+16,2024-11-16,Entertainment,3023.29,Expense,Cash,11,November,16,Saturday,1
+17,2024-06-30,Entertainment,4331.91,Expense,Cash,6,June,30,Sunday,1
+18,2024-02-01,Rent,1913.71,Expense,UPI,2,February,1,Thursday,1
+19,2024-02-09,Food,134.15,Expense,Cash,2,February,9,Friday,1
+20,2024-12-22,Bills,4520.04,Expense,UPI,12,December,22,Sunday,1
+21,2024-04-04,Rent,1619.01,Expense,Cash,4,April,4,Thursday,1
+22,2024-10-28,Bills,4621.91,Expense,Cash,10,October,28,Monday,1
+23,2024-12-24,Food,3758.31,Expense,Cash,12,December,24,Tuesday,1
+24,2024-02-01,Rent,2760.46,Expense,Net Banking,2,February,1,Thursday,1
+25,2024-04-27,Entertainment,3983.56,Expense,Card,4,April,27,Saturday,1
+26,2024-01-14,Bills,566.83,Expense,Net Banking,1,January,14,Sunday,1
+27,2024-07-05,Entertainment,1067.74,Income,Net Banking,7,July,5,Friday,0
+28,2024-05-21,Rent,2513.16,Income,Cash,5,May,21,Tuesday,0
+29,2024-06-20,Bills,4345.61,Income,UPI,6,June,20,Thursday,0
+30,2024-09-11,Food,1479.5,Income,Cash,9,September,11,Wednesday,0
+31,2024-10-09,Rent,3180.06,Expense,Net Banking,10,October,9,Wednesday,1
+32,2024-09-02,Rent,2579.63,Expense,UPI,9,September,2,Monday,1
+33,2024-05-21,Food,2400.45,Expense,Card,5,May,21,Tuesday,1
+34,2024-07-23,Shopping,3029.28,Expense,Card,7,July,23,Tuesday,1
+35,2024-04-21,Entertainment,599.66,Expense,Cash,4,April,21,Sunday,1
+36,2024-04-26,Travel,4432.78,Expense,UPI,4,April,26,Friday,1
+37,2024-05-07,Travel,1558.48,Expense,Cash,5,May,7,Tuesday,1
+38,2024-05-26,Rent,2340.63,Expense,Cash,5,May,26,Sunday,1
+39,2024-01-25,Shopping,2378.89,Expense,Cash,1,January,25,Thursday,1
+40,2024-04-24,Travel,3688.72,Expense,UPI,4,April,24,Wednesday,1
+41,2024-07-19,Rent,3305.5,Expense,Card,7,July,19,Friday,1
+42,2024-05-09,Shopping,4841.23,Expense,Net Banking,5,May,9,Thursday,1
+43,2024-01-17,Entertainment,3143.69,Expense,UPI,1,January,17,Wednesday,1
+44,2024-02-13,Entertainment,4394.95,Expense,Cash,2,February,13,Tuesday,1
+45,2024-01-19,Rent,3569.72,Expense,Card,1,January,19,Friday,1
+46,2024-06-21,Food,105.13,Expense,Cash,6,June,21,Friday,1
+47,2024-12-14,Rent,412.01,Expense,Net Banking,12,December,14,Saturday,1
+48,2024-06-24,Bills,1379.49,Expense,Net Banking,6,June,24,Monday,1
+49,2024-05-17,Shopping,2273.83,Expense,Cash,5,May,17,Friday,1
+50,2024-09-10,Travel,3686.66,Income,UPI,9,September,10,Tuesday,0
+51,2024-10-22,Travel,575.17,Expense,Cash,10,October,22,Tuesday,1
+52,2024-01-15,Rent,789.65,Expense,UPI,1,January,15,Monday,1
+53,2024-02-23,Bills,1525.56,Expense,Card,2,February,23,Friday,1
+54,2024-02-17,Entertainment,3697.67,Expense,Card,2,February,17,Saturday,1
+55,2024-10-13,Travel,1338.83,Expense,UPI,10,October,13,Sunday,1
+56,2024-03-20,Shopping,3166.22,Income,Card,3,March,20,Wednesday,0
+57,2024-01-18,Food,1946.72,Expense,Cash,1,January,18,Thursday,1
+58,2024-08-17,Travel,2247.02,Expense,Cash,8,August,17,Saturday,1
+59,2024-02-27,Shopping,2760.19,Expense,Card,2,February,27,Tuesday,1
+60,2024-05-02,Bills,4602.13,Expense,Net Banking,5,May,2,Thursday,1
+61,2024-03-25,Shopping,4829.75,Expense,Cash,3,March,25,Monday,1
+62,2024-07-07,Rent,1333.88,Expense,UPI,7,July,7,Sunday,1
+63,2024-03-27,Food,2740.57,Expense,Card,3,March,27,Wednesday,1
+64,2024-05-16,Shopping,3378.72,Expense,Cash,5,May,16,Thursday,1
+65,2024-07-12,Shopping,3995.61,Expense,Cash,7,July,12,Friday,1
+66,2024-04-16,Shopping,3153.08,Expense,UPI,4,April,16,Tuesday,1
+67,2024-04-28,Entertainment,630.47,Expense,UPI,4,April,28,Sunday,1
+68,2024-08-24,Entertainment,1875.94,Expense,Cash,8,August,24,Saturday,1
+69,2024-01-25,Bills,2451.6,Expense,Net Banking,1,January,25,Thursday,1
+70,2024-04-26,Shopping,3469.65,Expense,Net Banking,4,April,26,Friday,1
+71,2024-12-15,Rent,3244.19,Expense,Net Banking,12,December,15,Sunday,1
+72,2024-01-14,Rent,1706.07,Expense,Cash,1,January,14,Sunday,1
+73,2024-07-21,Travel,4564.02,Expense,Cash,7,July,21,Sunday,1
+74,2024-03-03,Rent,3950.29,Expense,UPI,3,March,3,Sunday,1
+75,2024-08-22,Entertainment,1635.45,Expense,Cash,8,August,22,Thursday,1
+76,2024-04-18,Entertainment,4021.31,Expense,Cash,4,April,18,Thursday,1
+77,2024-04-05,Food,4999.51,Expense,Card,4,April,5,Friday,1
+78,2024-11-19,Food,1570.55,Income,UPI,11,November,19,Tuesday,0
+79,2024-07-04,Bills,2768.89,Income,Cash,7,July,4,Thursday,0
+80,2024-03-17,Shopping,3154.44,Income,UPI,3,March,17,Sunday,0
+81,2024-07-15,Shopping,1494.1,Income,UPI,7,July,15,Monday,0
+82,2024-12-18,Shopping,210.36,Income,UPI,12,December,18,Wednesday,0
+83,2024-10-05,Shopping,575.13,Expense,Cash,10,October,5,Saturday,1
+84,2024-12-23,Travel,4608.5,Expense,Cash,12,December,23,Monday,1
+85,2024-06-03,Shopping,3483.39,Expense,Net Banking,6,June,3,Monday,1
+86,2024-05-27,Rent,1621.22,Expense,Card,5,May,27,Monday,1
+87,2024-04-12,Entertainment,723.37,Expense,Cash,4,April,12,Friday,1
+88,2024-01-05,Bills,541.67,Income,Cash,1,January,5,Friday,0
+89,2024-11-27,Entertainment,113.32,Expense,UPI,11,November,27,Wednesday,1
+90,2024-11-03,Entertainment,2801.15,Expense,Card,11,November,3,Sunday,1
+91,2024-05-23,Bills,3066.87,Expense,Net Banking,5,May,23,Thursday,1
+92,2024-11-27,Food,4827.12,Income,Card,11,November,27,Wednesday,0
+93,2024-07-17,Travel,2366.67,Expense,UPI,7,July,17,Wednesday,1
+94,2024-08-12,Travel,1827.56,Income,Net Banking,8,August,12,Monday,0
+95,2024-02-10,Travel,4461.87,Expense,Net Banking,2,February,10,Saturday,1
+96,2024-01-18,Food,3667.51,Expense,Net Banking,1,January,18,Thursday,1
+97,2024-02-21,Bills,4987.19,Expense,UPI,2,February,21,Wednesday,1
+98,2024-05-14,Rent,4483.39,Expense,Cash,5,May,14,Tuesday,1
+99,2024-10-14,Entertainment,1747.94,Expense,Cash,10,October,14,Monday,1
+100,2024-01-24,Shopping,164.65,Expense,Card,1,January,24,Wednesday,1
+101,2024-08-28,Shopping,3800.74,Expense,UPI,8,August,28,Wednesday,1
+102,2024-04-12,Food,4211.89,Expense,Net Banking,4,April,12,Friday,1
+103,2024-02-27,Travel,1832.28,Expense,Card,2,February,27,Tuesday,1
+104,2024-03-21,Rent,1258.03,Expense,Cash,3,March,21,Thursday,1
+105,2024-08-09,Rent,3016.23,Expense,Card,8,August,9,Friday,1
+106,2024-07-09,Bills,3887.79,Expense,Net Banking,7,July,9,Tuesday,1
+107,2024-08-03,Shopping,1563.74,Expense,Net Banking,8,August,3,Saturday,1
+108,2024-10-14,Bills,888.26,Expense,UPI,10,October,14,Monday,1
+109,2024-05-28,Shopping,2758.22,Expense,Card,5,May,28,Tuesday,1
+110,2024-03-02,Food,3518.95,Income,Card,3,March,2,Saturday,0
+111,2024-03-03,Entertainment,1550.84,Expense,Net Banking,3,March,3,Sunday,1
+112,2024-09-27,Entertainment,2590.7,Expense,Card,9,September,27,Friday,1
+113,2024-12-02,Shopping,2423.99,Expense,UPI,12,December,2,Monday,1
+114,2024-11-23,Rent,2891.95,Expense,UPI,11,November,23,Saturday,1
+115,2024-06-27,Food,2900.48,Expense,Net Banking,6,June,27,Thursday,1
+116,2024-01-05,Entertainment,3844.41,Expense,Card,1,January,5,Friday,1
+117,2024-05-24,Food,3465.12,Expense,UPI,5,May,24,Friday,1
+118,2024-12-09,Rent,2040.16,Expense,UPI,12,December,9,Monday,1
+119,2024-12-13,Entertainment,3484.04,Expense,Card,12,December,13,Friday,1
+120,2024-12-03,Food,3602.41,Income,Cash,12,December,3,Tuesday,0
+121,2024-11-20,Shopping,3349.23,Expense,Cash,11,November,20,Wednesday,1
+122,2024-08-05,Entertainment,3827.04,Expense,Card,8,August,5,Monday,1
+123,2024-06-09,Bills,180.43,Expense,UPI,6,June,9,Sunday,1
+124,2024-10-15,Food,394.85,Expense,UPI,10,October,15,Tuesday,1
+125,2024-10-19,Shopping,2332.7,Expense,Cash,10,October,19,Saturday,1
+126,2024-11-10,Rent,944.15,Expense,Cash,11,November,10,Sunday,1
+127,2024-05-19,Travel,1690.2,Expense,UPI,5,May,19,Sunday,1
+128,2024-08-04,Food,4749.64,Income,Cash,8,August,4,Sunday,0
+129,2024-10-26,Bills,3827.09,Expense,Card,10,October,26,Saturday,1
+130,2024-03-15,Entertainment,4016.07,Income,Net Banking,3,March,15,Friday,0
+131,2024-12-04,Travel,1069.22,Expense,Cash,12,December,4,Wednesday,1
+132,2024-03-08,Food,3333.2,Expense,UPI,3,March,8,Friday,1
+133,2024-09-08,Entertainment,1752.54,Expense,Net Banking,9,September,8,Sunday,1
+134,2024-01-23,Bills,1476.25,Expense,Card,1,January,23,Tuesday,1
+135,2024-01-20,Rent,498.5,Expense,Cash,1,January,20,Saturday,1
+136,2024-06-15,Food,3662.46,Expense,Net Banking,6,June,15,Saturday,1
+137,2024-07-06,Travel,852.03,Expense,Cash,7,July,6,Saturday,1
+138,2024-05-17,Shopping,978.04,Expense,Net Banking,5,May,17,Friday,1
+139,2024-08-10,Rent,4662.11,Expense,Card,8,August,10,Saturday,1
+140,2024-05-25,Entertainment,2353.4,Income,Cash,5,May,25,Saturday,0
+141,2024-04-01,Shopping,4048.56,Income,Card,4,April,1,Monday,0
+142,2024-08-07,Travel,3456.01,Expense,Cash,8,August,7,Wednesday,1
+143,2024-08-18,Bills,463.18,Expense,Net Banking,8,August,18,Sunday,1
+144,2024-01-31,Bills,161.14,Expense,Card,1,January,31,Wednesday,1
+145,2024-09-13,Food,1865.77,Expense,Cash,9,September,13,Friday,1
+146,2024-08-17,Rent,819.89,Expense,Net Banking,8,August,17,Saturday,1
+147,2024-06-04,Entertainment,540.88,Expense,Card,6,June,4,Tuesday,1
+148,2024-11-21,Travel,1005.61,Expense,Card,11,November,21,Thursday,1
+149,2024-09-10,Bills,3807.58,Expense,Card,9,September,10,Tuesday,1
+150,2024-09-02,Bills,4751.43,Expense,Card,9,September,2,Monday,1
+151,2024-10-06,Shopping,415.39,Expense,UPI,10,October,6,Sunday,1
+152,2024-07-21,Bills,2616.84,Expense,Net Banking,7,July,21,Sunday,1
+153,2024-09-18,Food,915.5,Expense,Card,9,September,18,Wednesday,1
+154,2024-01-20,Entertainment,3391.13,Expense,UPI,1,January,20,Saturday,1
+155,2024-03-21,Bills,2992.17,Expense,Card,3,March,21,Thursday,1
+156,2024-09-13,Rent,2622.33,Expense,Cash,9,September,13,Friday,1
+157,2024-12-24,Food,4076.33,Expense,Card,12,December,24,Tuesday,1
+158,2024-09-20,Food,3185.69,Expense,Card,9,September,20,Friday,1
+159,2024-01-20,Shopping,2326.54,Expense,Net Banking,1,January,20,Saturday,1
+160,2024-02-13,Rent,2513.41,Expense,Cash,2,February,13,Tuesday,1
+161,2024-06-12,Shopping,1710.73,Income,UPI,6,June,12,Wednesday,0
+162,2024-10-05,Rent,2826.9,Expense,Card,10,October,5,Saturday,1
+163,2024-12-14,Entertainment,1620.98,Expense,Cash,12,December,14,Saturday,1
+164,2024-05-21,Food,1294.73,Expense,Cash,5,May,21,Tuesday,1
+165,2024-06-24,Shopping,985.48,Income,Cash,6,June,24,Monday,0
+166,2024-08-07,Rent,3070.32,Expense,Card,8,August,7,Wednesday,1
+167,2024-03-28,Shopping,3246.36,Expense,Net Banking,3,March,28,Thursday,1
+168,2024-09-14,Entertainment,2136.23,Income,Cash,9,September,14,Saturday,0
+169,2024-04-27,Entertainment,2726.43,Income,Net Banking,4,April,27,Saturday,0
+170,2024-01-30,Entertainment,4486.44,Income,UPI,1,January,30,Tuesday,0
+171,2024-03-06,Rent,3333.23,Expense,Cash,3,March,6,Wednesday,1
+172,2024-12-09,Shopping,1550.27,Expense,Net Banking,12,December,9,Monday,1
+173,2024-03-24,Rent,302.43,Expense,UPI,3,March,24,Sunday,1
+174,2024-05-08,Food,2887.41,Expense,Cash,5,May,8,Wednesday,1
+175,2024-06-17,Travel,2517.66,Expense,UPI,6,June,17,Monday,1
+176,2024-07-18,Food,4153.24,Expense,Cash,7,July,18,Thursday,1
+177,2024-07-05,Entertainment,180.1,Income,Cash,7,July,5,Friday,0
+178,2024-12-23,Shopping,3398.6,Income,Net Banking,12,December,23,Monday,0
+179,2024-06-25,Food,2462.66,Income,Net Banking,6,June,25,Tuesday,0
+180,2024-04-15,Food,285.88,Income,Cash,4,April,15,Monday,0
+181,2024-10-15,Travel,4695.14,Expense,Net Banking,10,October,15,Tuesday,1
+182,2024-04-17,Shopping,1681.0,Income,UPI,4,April,17,Wednesday,0
+183,2024-04-23,Shopping,1532.9,Expense,Card,4,April,23,Tuesday,1
+184,2024-10-08,Bills,543.58,Income,Cash,10,October,8,Tuesday,0
+185,2024-03-06,Food,3704.37,Expense,Cash,3,March,6,Wednesday,1
+186,2024-11-03,Bills,3585.8,Expense,Cash,11,November,3,Sunday,1
+187,2024-02-23,Food,411.52,Expense,Cash,2,February,23,Friday,1
+188,2024-02-16,Food,1026.71,Expense,UPI,2,February,16,Friday,1
+189,2024-08-29,Travel,461.76,Income,UPI,8,August,29,Thursday,0
+190,2024-03-07,Shopping,4152.4,Expense,Card,3,March,7,Thursday,1
+191,2024-02-25,Food,1631.77,Expense,Cash,2,February,25,Sunday,1
+192,2024-04-28,Food,4298.16,Income,Card,4,April,28,Sunday,0
+193,2024-02-24,Entertainment,2051.67,Expense,Card,2,February,24,Saturday,1
+194,2024-07-28,Entertainment,620.36,Expense,Card,7,July,28,Sunday,1
+195,2024-07-21,Shopping,3970.82,Expense,Cash,7,July,21,Sunday,1
+196,2024-04-29,Travel,646.17,Expense,Cash,4,April,29,Monday,1
+197,2024-09-13,Food,2165.28,Expense,Card,9,September,13,Friday,1
+198,2024-05-06,Rent,3067.68,Income,Net Banking,5,May,6,Monday,0
+199,2024-04-08,Shopping,731.28,Income,Cash,4,April,8,Monday,0
+200,2024-09-26,Entertainment,4432.02,Expense,Net Banking,9,September,26,Thursday,1
+201,2024-08-29,Entertainment,3753.1,Expense,Net Banking,8,August,29,Thursday,1
+202,2024-09-21,Bills,3120.13,Expense,Card,9,September,21,Saturday,1
+203,2024-07-20,Rent,1599.17,Income,Card,7,July,20,Saturday,0
+204,2024-02-04,Food,473.12,Expense,Card,2,February,4,Sunday,1
+205,2024-05-13,Entertainment,1716.39,Expense,Net Banking,5,May,13,Monday,1
+206,2024-09-11,Rent,585.47,Expense,Cash,9,September,11,Wednesday,1
+207,2024-10-17,Shopping,4212.55,Expense,UPI,10,October,17,Thursday,1
+208,2024-08-29,Rent,748.88,Income,Cash,8,August,29,Thursday,0
+209,2024-03-27,Bills,2474.66,Expense,Card,3,March,27,Wednesday,1
+210,2024-06-04,Entertainment,4096.39,Expense,Card,6,June,4,Tuesday,1
+211,2024-03-30,Shopping,1904.73,Expense,UPI,3,March,30,Saturday,1
+212,2024-01-31,Rent,303.39,Expense,Net Banking,1,January,31,Wednesday,1
+213,2024-10-02,Bills,4862.04,Expense,UPI,10,October,2,Wednesday,1
+214,2024-11-19,Shopping,4488.26,Expense,Cash,11,November,19,Tuesday,1
+215,2024-05-04,Food,4689.8,Income,UPI,5,May,4,Saturday,0
+216,2024-07-12,Bills,1682.13,Income,Card,7,July,12,Friday,0
+217,2024-08-21,Food,3925.56,Expense,Card,8,August,21,Wednesday,1
+218,2024-08-27,Travel,4175.62,Expense,Cash,8,August,27,Tuesday,1
+219,2024-12-09,Rent,1090.6,Expense,UPI,12,December,9,Monday,1
+220,2024-09-29,Entertainment,1243.15,Expense,Net Banking,9,September,29,Sunday,1
+221,2024-10-02,Shopping,925.97,Expense,Cash,10,October,2,Wednesday,1
+222,2024-05-26,Rent,2551.16,Expense,Net Banking,5,May,26,Sunday,1
+223,2024-05-03,Entertainment,4364.49,Expense,Net Banking,5,May,3,Friday,1
+224,2024-03-23,Travel,854.95,Expense,UPI,3,March,23,Saturday,1
+225,2024-05-07,Shopping,997.02,Income,UPI,5,May,7,Tuesday,0
+226,2024-07-01,Rent,346.43,Expense,Net Banking,7,July,1,Monday,1
+227,2024-12-11,Rent,4704.06,Expense,Net Banking,12,December,11,Wednesday,1
+228,2024-07-03,Food,2418.28,Income,Cash,7,July,3,Wednesday,0
+229,2024-09-24,Shopping,3630.34,Expense,UPI,9,September,24,Tuesday,1
+230,2024-02-02,Bills,3363.32,Income,Card,2,February,2,Friday,0
+231,2024-10-15,Food,1267.72,Expense,Net Banking,10,October,15,Tuesday,1
+232,2024-07-06,Bills,3967.05,Income,Net Banking,7,July,6,Saturday,0
+233,2024-11-14,Food,4868.63,Expense,Card,11,November,14,Thursday,1
+234,2024-08-14,Entertainment,1936.48,Expense,Net Banking,8,August,14,Wednesday,1
+235,2024-10-10,Shopping,2013.99,Expense,Net Banking,10,October,10,Thursday,1
+236,2024-06-21,Travel,3324.81,Income,Net Banking,6,June,21,Friday,0
+237,2024-09-02,Bills,4479.39,Expense,Net Banking,9,September,2,Monday,1
+238,2024-03-12,Food,613.07,Expense,Card,3,March,12,Tuesday,1
+239,2024-06-07,Bills,4299.83,Expense,Cash,6,June,7,Friday,1
+240,2024-02-15,Travel,3890.37,Expense,Net Banking,2,February,15,Thursday,1
+241,2024-07-26,Travel,1488.78,Expense,UPI,7,July,26,Friday,1
+242,2024-05-07,Food,4816.64,Expense,Cash,5,May,7,Tuesday,1
+243,2024-12-22,Entertainment,362.44,Expense,UPI,12,December,22,Sunday,1
+244,2024-04-25,Rent,3262.11,Expense,Net Banking,4,April,25,Thursday,1
+245,2024-07-15,Entertainment,1715.81,Expense,Net Banking,7,July,15,Monday,1
+246,2024-03-04,Shopping,1773.18,Expense,Net Banking,3,March,4,Monday,1
+247,2024-07-20,Bills,4294.47,Expense,Net Banking,7,July,20,Saturday,1
+248,2024-05-15,Rent,1758.53,Expense,Card,5,May,15,Wednesday,1
+249,2024-10-06,Rent,3242.39,Expense,Card,10,October,6,Sunday,1
+250,2024-05-26,Rent,4719.33,Expense,Card,5,May,26,Sunday,1
+251,2024-05-28,Shopping,1151.18,Expense,Net Banking,5,May,28,Tuesday,1
+252,2024-01-23,Shopping,4332.33,Expense,Net Banking,1,January,23,Tuesday,1
+253,2024-09-28,Bills,3152.28,Expense,Cash,9,September,28,Saturday,1
+254,2024-01-07,Shopping,4238.98,Expense,Net Banking,1,January,7,Sunday,1
+255,2024-01-21,Entertainment,4776.07,Income,UPI,1,January,21,Sunday,0
+256,2024-05-17,Food,3046.25,Expense,Card,5,May,17,Friday,1
+257,2024-09-15,Food,2936.15,Expense,Card,9,September,15,Sunday,1
+258,2024-12-20,Travel,2797.86,Expense,Card,12,December,20,Friday,1
+259,2024-08-09,Shopping,3317.92,Expense,Card,8,August,9,Friday,1
+260,2024-04-29,Bills,4364.61,Expense,Net Banking,4,April,29,Monday,1
+261,2024-11-15,Shopping,1345.07,Expense,Card,11,November,15,Friday,1
+262,2024-08-31,Food,4067.36,Income,Net Banking,8,August,31,Saturday,0
+263,2024-06-06,Shopping,3833.1,Expense,Cash,6,June,6,Thursday,1
+264,2024-04-05,Rent,2758.1,Expense,Cash,4,April,5,Friday,1
+265,2024-03-15,Bills,722.83,Expense,Card,3,March,15,Friday,1
+266,2024-03-14,Rent,1267.37,Expense,Net Banking,3,March,14,Thursday,1
+267,2024-07-23,Rent,1353.71,Expense,Card,7,July,23,Tuesday,1
+268,2024-03-31,Entertainment,2374.14,Income,UPI,3,March,31,Sunday,0
+269,2024-10-19,Food,1876.4,Expense,UPI,10,October,19,Saturday,1
+270,2024-08-02,Entertainment,4558.85,Expense,UPI,8,August,2,Friday,1
+271,2024-03-01,Bills,1599.91,Expense,Card,3,March,1,Friday,1
+272,2024-12-21,Bills,686.55,Expense,Card,12,December,21,Saturday,1
+273,2024-04-21,Bills,1826.06,Income,Net Banking,4,April,21,Sunday,0
+274,2024-02-16,Food,520.32,Expense,Net Banking,2,February,16,Friday,1
+275,2024-05-08,Rent,3260.5,Expense,Card,5,May,8,Wednesday,1
+276,2024-04-01,Shopping,1836.78,Expense,UPI,4,April,1,Monday,1
+277,2024-11-19,Travel,4957.08,Expense,Cash,11,November,19,Tuesday,1
+278,2024-01-04,Rent,3559.56,Expense,Net Banking,1,January,4,Thursday,1
+279,2024-10-15,Rent,4534.04,Expense,UPI,10,October,15,Tuesday,1
+280,2024-09-07,Rent,421.57,Income,Net Banking,9,September,7,Saturday,0
+281,2024-02-28,Shopping,1395.21,Expense,Net Banking,2,February,28,Wednesday,1
+282,2024-10-25,Bills,4482.29,Expense,Cash,10,October,25,Friday,1
+283,2024-03-14,Rent,2585.72,Expense,Card,3,March,14,Thursday,1
+284,2024-02-13,Travel,715.74,Expense,Card,2,February,13,Tuesday,1
+285,2024-11-21,Travel,3213.8,Expense,Net Banking,11,November,21,Thursday,1
+286,2024-12-23,Rent,4557.11,Expense,Card,12,December,23,Monday,1
+287,2024-12-11,Rent,3138.77,Expense,Card,12,December,11,Wednesday,1
+288,2024-05-08,Travel,3211.66,Expense,UPI,5,May,8,Wednesday,1
+289,2024-10-01,Food,4275.71,Expense,Net Banking,10,October,1,Tuesday,1
+290,2024-05-28,Travel,726.84,Expense,Card,5,May,28,Tuesday,1
+291,2024-11-14,Shopping,1197.22,Expense,Cash,11,November,14,Thursday,1
+292,2024-12-30,Shopping,1196.54,Expense,UPI,12,December,30,Monday,1
+293,2024-06-25,Entertainment,3582.33,Expense,Cash,6,June,25,Tuesday,1
+294,2024-05-11,Travel,1806.0,Expense,Cash,5,May,11,Saturday,1
+295,2024-07-14,Entertainment,2862.62,Income,Net Banking,7,July,14,Sunday,0
+296,2024-10-19,Shopping,216.95,Expense,UPI,10,October,19,Saturday,1
+297,2024-03-13,Bills,4878.44,Expense,Cash,3,March,13,Wednesday,1
+298,2024-10-31,Shopping,3165.29,Income,Card,10,October,31,Thursday,0
+299,2024-08-07,Bills,2375.82,Expense,Net Banking,8,August,7,Wednesday,1
+300,2024-11-15,Shopping,2060.77,Expense,UPI,11,November,15,Friday,1
+301,2024-05-21,Food,1558.42,Expense,Cash,5,May,21,Tuesday,1
+302,2024-08-10,Bills,952.32,Expense,Net Banking,8,August,10,Saturday,1
+303,2024-03-01,Rent,448.91,Expense,Net Banking,3,March,1,Friday,1
+304,2024-03-23,Travel,4895.57,Income,Cash,3,March,23,Saturday,0
+305,2024-01-12,Rent,4933.59,Expense,Net Banking,1,January,12,Friday,1
+306,2024-02-24,Rent,2104.08,Income,Cash,2,February,24,Saturday,0
+307,2024-10-19,Shopping,4291.77,Expense,UPI,10,October,19,Saturday,1
+308,2024-12-07,Entertainment,3028.79,Expense,Cash,12,December,7,Saturday,1
+309,2024-01-05,Food,4886.0,Expense,Net Banking,1,January,5,Friday,1
+310,2024-06-01,Food,2090.17,Expense,Cash,6,June,1,Saturday,1
+311,2024-03-30,Bills,532.95,Expense,Cash,3,March,30,Saturday,1
+312,2024-11-26,Entertainment,1377.2,Expense,Net Banking,11,November,26,Tuesday,1
+313,2024-03-27,Food,4851.32,Expense,Card,3,March,27,Wednesday,1
+314,2024-10-30,Entertainment,3702.17,Expense,Card,10,October,30,Wednesday,1
+315,2024-07-30,Rent,3608.99,Expense,Card,7,July,30,Tuesday,1
+316,2024-05-30,Shopping,2296.26,Expense,Cash,5,May,30,Thursday,1
+317,2024-05-08,Bills,1876.93,Expense,Net Banking,5,May,8,Wednesday,1
+318,2024-05-01,Entertainment,1273.08,Expense,Cash,5,May,1,Wednesday,1
+319,2024-10-22,Rent,4304.33,Expense,Net Banking,10,October,22,Tuesday,1
+320,2024-11-30,Bills,668.58,Expense,Cash,11,November,30,Saturday,1
+321,2024-06-03,Shopping,2637.55,Expense,Net Banking,6,June,3,Monday,1
+322,2024-11-10,Entertainment,594.77,Expense,Card,11,November,10,Sunday,1
+323,2024-12-25,Entertainment,1888.21,Income,Card,12,December,25,Wednesday,0
+324,2024-10-16,Shopping,4209.28,Expense,UPI,10,October,16,Wednesday,1
+325,2024-09-03,Entertainment,4678.15,Expense,Net Banking,9,September,3,Tuesday,1
+326,2024-10-24,Bills,4711.59,Expense,Net Banking,10,October,24,Thursday,1
+327,2024-10-06,Shopping,2004.93,Expense,UPI,10,October,6,Sunday,1
+328,2024-01-17,Shopping,3731.16,Expense,UPI,1,January,17,Wednesday,1
+329,2024-09-14,Shopping,683.26,Expense,UPI,9,September,14,Saturday,1
+330,2024-10-18,Rent,4953.11,Expense,Net Banking,10,October,18,Friday,1
+331,2024-06-25,Rent,592.5,Expense,Cash,6,June,25,Tuesday,1
+332,2024-05-16,Bills,2475.05,Expense,UPI,5,May,16,Thursday,1
+333,2024-04-01,Rent,347.84,Expense,Card,4,April,1,Monday,1
+334,2024-02-25,Entertainment,1891.99,Expense,Card,2,February,25,Sunday,1
+335,2024-02-21,Bills,2049.91,Expense,UPI,2,February,21,Wednesday,1
+336,2024-07-16,Entertainment,645.42,Income,Net Banking,7,July,16,Tuesday,0
+337,2024-10-23,Rent,4947.27,Income,Card,10,October,23,Wednesday,0
+338,2024-04-30,Travel,1077.3,Expense,Cash,4,April,30,Tuesday,1
+339,2024-06-14,Shopping,3757.54,Expense,Card,6,June,14,Friday,1
+340,2024-11-10,Shopping,1470.05,Expense,UPI,11,November,10,Sunday,1
+341,2024-10-04,Entertainment,233.7,Expense,Net Banking,10,October,4,Friday,1
+342,2024-01-07,Entertainment,1318.49,Expense,UPI,1,January,7,Sunday,1
+343,2024-12-04,Bills,2056.74,Expense,UPI,12,December,4,Wednesday,1
+344,2024-05-13,Food,4332.43,Expense,Net Banking,5,May,13,Monday,1
+345,2024-03-03,Bills,2128.22,Expense,UPI,3,March,3,Sunday,1
+346,2024-07-18,Bills,2111.62,Expense,Net Banking,7,July,18,Thursday,1
+347,2024-12-29,Shopping,3932.75,Expense,UPI,12,December,29,Sunday,1
+348,2024-11-16,Bills,1757.04,Expense,Net Banking,11,November,16,Saturday,1
+349,2024-09-02,Travel,1497.15,Expense,Card,9,September,2,Monday,1
+350,2024-04-15,Entertainment,4186.01,Expense,Cash,4,April,15,Monday,1
+351,2024-01-06,Food,1857.14,Expense,Net Banking,1,January,6,Saturday,1
+352,2024-03-20,Shopping,2649.37,Expense,Cash,3,March,20,Wednesday,1
+353,2024-09-19,Shopping,2450.49,Expense,Net Banking,9,September,19,Thursday,1
+354,2024-11-18,Bills,374.62,Income,Card,11,November,18,Monday,0
+355,2024-05-18,Travel,1067.02,Expense,UPI,5,May,18,Saturday,1
+356,2024-01-11,Shopping,4237.07,Expense,UPI,1,January,11,Thursday,1
+357,2024-06-09,Entertainment,4472.69,Expense,Cash,6,June,9,Sunday,1
+358,2024-05-23,Shopping,415.42,Income,Card,5,May,23,Thursday,0
+359,2024-05-20,Shopping,678.8,Expense,Cash,5,May,20,Monday,1
+360,2024-03-14,Travel,3018.6,Expense,Card,3,March,14,Thursday,1
+361,2024-09-06,Travel,4903.2,Expense,Card,9,September,6,Friday,1
+362,2024-11-13,Entertainment,4908.99,Expense,UPI,11,November,13,Wednesday,1
+363,2024-08-31,Food,4836.35,Expense,Cash,8,August,31,Saturday,1
+364,2024-02-29,Entertainment,3255.25,Income,Card,2,February,29,Thursday,0
+365,2024-03-10,Food,881.78,Expense,Cash,3,March,10,Sunday,1
+366,2024-06-04,Rent,2950.53,Expense,Net Banking,6,June,4,Tuesday,1
+367,2024-01-29,Entertainment,2246.81,Expense,Cash,1,January,29,Monday,1
+368,2024-07-15,Food,2749.21,Expense,Net Banking,7,July,15,Monday,1
+369,2024-01-13,Shopping,1113.86,Expense,Cash,1,January,13,Saturday,1
+370,2024-03-10,Bills,1200.19,Expense,UPI,3,March,10,Sunday,1
+371,2024-12-21,Rent,1096.28,Expense,Cash,12,December,21,Saturday,1
+372,2024-07-26,Food,4028.88,Expense,UPI,7,July,26,Friday,1
+373,2024-11-09,Shopping,353.16,Expense,Net Banking,11,November,9,Saturday,1
+374,2024-07-09,Entertainment,4677.63,Expense,Net Banking,7,July,9,Tuesday,1
+375,2024-11-06,Travel,982.36,Income,Cash,11,November,6,Wednesday,0
+376,2024-11-08,Food,3728.26,Expense,Cash,11,November,8,Friday,1
+377,2024-03-26,Food,543.95,Expense,UPI,3,March,26,Tuesday,1
+378,2024-02-21,Entertainment,3321.41,Expense,UPI,2,February,21,Wednesday,1
+379,2024-03-06,Bills,2004.45,Income,Card,3,March,6,Wednesday,0
+380,2024-08-07,Travel,2861.82,Income,Cash,8,August,7,Wednesday,0
+381,2024-04-18,Entertainment,2841.58,Expense,Card,4,April,18,Thursday,1
+382,2024-05-16,Bills,3123.1,Income,Card,5,May,16,Thursday,0
+383,2024-04-06,Entertainment,2564.16,Income,UPI,4,April,6,Saturday,0
+384,2024-04-26,Travel,4548.98,Expense,Cash,4,April,26,Friday,1
+385,2024-08-03,Rent,3722.08,Expense,UPI,8,August,3,Saturday,1
+386,2024-07-15,Bills,1096.93,Income,Cash,7,July,15,Monday,0
+387,2024-08-03,Entertainment,2746.14,Expense,UPI,8,August,3,Saturday,1
+388,2024-03-14,Rent,3954.15,Expense,Card,3,March,14,Thursday,1
+389,2024-08-07,Travel,1984.19,Expense,Cash,8,August,7,Wednesday,1
+390,2024-05-09,Entertainment,2220.15,Expense,Card,5,May,9,Thursday,1
+391,2024-02-17,Shopping,395.65,Expense,Net Banking,2,February,17,Saturday,1
+392,2024-10-06,Food,755.8,Income,Net Banking,10,October,6,Sunday,0
+393,2024-05-26,Entertainment,3262.72,Income,UPI,5,May,26,Sunday,0
+394,2024-10-30,Shopping,3398.61,Income,Card,10,October,30,Wednesday,0
+395,2024-02-12,Shopping,2800.57,Income,Card,2,February,12,Monday,0
+396,2024-01-03,Shopping,3411.62,Expense,UPI,1,January,3,Wednesday,1
+397,2024-10-01,Shopping,658.7,Income,UPI,10,October,1,Tuesday,0
+398,2024-05-16,Entertainment,3890.91,Expense,Cash,5,May,16,Thursday,1
+399,2024-03-11,Entertainment,2901.89,Expense,UPI,3,March,11,Monday,1
+400,2024-03-02,Travel,4869.85,Expense,Cash,3,March,2,Saturday,1
+401,2024-09-20,Food,142.53,Income,Cash,9,September,20,Friday,0
+402,2024-07-07,Rent,4358.87,Expense,Cash,7,July,7,Sunday,1
+403,2024-07-27,Bills,3722.57,Expense,Net Banking,7,July,27,Saturday,1
+404,2024-03-19,Shopping,4062.4,Expense,Cash,3,March,19,Tuesday,1
+405,2024-03-26,Shopping,2290.95,Expense,Cash,3,March,26,Tuesday,1
+406,2024-07-28,Shopping,4256.81,Expense,Card,7,July,28,Sunday,1
+407,2024-04-17,Bills,179.4,Income,UPI,4,April,17,Wednesday,0
+408,2024-12-12,Rent,4840.78,Expense,Net Banking,12,December,12,Thursday,1
+409,2024-12-15,Rent,4048.34,Income,Cash,12,December,15,Sunday,0
+410,2024-03-04,Entertainment,4307.48,Expense,Cash,3,March,4,Monday,1
+411,2024-04-29,Food,4158.43,Expense,UPI,4,April,29,Monday,1
+412,2024-04-02,Bills,3967.93,Expense,UPI,4,April,2,Tuesday,1
+413,2024-06-24,Travel,2493.25,Expense,UPI,6,June,24,Monday,1
+414,2024-05-23,Food,3227.42,Expense,Cash,5,May,23,Thursday,1
+415,2024-01-16,Food,2999.35,Income,UPI,1,January,16,Tuesday,0
+416,2024-03-22,Shopping,2432.23,Expense,Net Banking,3,March,22,Friday,1
+417,2024-02-12,Bills,533.23,Expense,UPI,2,February,12,Monday,1
+418,2024-02-22,Food,2011.18,Expense,Cash,2,February,22,Thursday,1
+419,2024-02-09,Food,573.68,Expense,Net Banking,2,February,9,Friday,1
+420,2024-12-04,Rent,3525.62,Expense,Card,12,December,4,Wednesday,1
+421,2024-04-15,Entertainment,273.42,Income,Net Banking,4,April,15,Monday,0
+422,2024-10-03,Rent,1525.14,Expense,UPI,10,October,3,Thursday,1
+423,2024-08-12,Rent,3362.35,Expense,Net Banking,8,August,12,Monday,1
+424,2024-02-07,Food,4630.06,Expense,Cash,2,February,7,Wednesday,1
+425,2024-04-15,Food,3105.87,Expense,Cash,4,April,15,Monday,1
+426,2024-02-04,Food,3761.72,Expense,Cash,2,February,4,Sunday,1
+427,2024-05-16,Shopping,168.14,Income,Card,5,May,16,Thursday,0
+428,2024-07-20,Entertainment,1506.76,Expense,Net Banking,7,July,20,Saturday,1
+429,2024-05-10,Shopping,2965.75,Expense,Card,5,May,10,Friday,1
+430,2024-01-15,Food,3184.93,Expense,Card,1,January,15,Monday,1
+431,2024-12-24,Entertainment,1867.25,Expense,Net Banking,12,December,24,Tuesday,1
+432,2024-07-02,Entertainment,2697.46,Income,Net Banking,7,July,2,Tuesday,0
+433,2024-11-14,Shopping,262.33,Expense,Net Banking,11,November,14,Thursday,1
+434,2024-07-17,Bills,4177.16,Expense,Cash,7,July,17,Wednesday,1
+435,2024-12-25,Food,917.77,Expense,Net Banking,12,December,25,Wednesday,1
+436,2024-02-17,Travel,1315.83,Expense,Card,2,February,17,Saturday,1
+437,2024-12-09,Entertainment,4366.89,Income,UPI,12,December,9,Monday,0
+438,2024-08-25,Bills,4135.2,Expense,Net Banking,8,August,25,Sunday,1
+439,2024-08-18,Rent,941.12,Expense,Net Banking,8,August,18,Sunday,1
+440,2024-05-08,Bills,1173.41,Expense,UPI,5,May,8,Wednesday,1
+441,2024-07-11,Shopping,2568.48,Expense,Cash,7,July,11,Thursday,1
+442,2024-06-06,Shopping,2361.94,Expense,Cash,6,June,6,Thursday,1
+443,2024-09-17,Bills,1292.7,Expense,Net Banking,9,September,17,Tuesday,1
+444,2024-10-11,Shopping,2951.48,Expense,Card,10,October,11,Friday,1
+445,2024-06-08,Rent,2094.4,Expense,Cash,6,June,8,Saturday,1
+446,2024-06-29,Travel,2158.08,Expense,Card,6,June,29,Saturday,1
+447,2024-11-21,Rent,1656.64,Expense,Cash,11,November,21,Thursday,1
+448,2024-11-14,Rent,3767.64,Expense,UPI,11,November,14,Thursday,1
+449,2024-06-04,Travel,1762.2,Expense,Card,6,June,4,Tuesday,1
+450,2024-07-11,Bills,1920.3,Expense,Card,7,July,11,Thursday,1
+451,2024-03-26,Travel,813.68,Expense,Card,3,March,26,Tuesday,1
+452,2024-03-14,Travel,4712.95,Expense,Net Banking,3,March,14,Thursday,1
+453,2024-02-20,Rent,4036.01,Expense,UPI,2,February,20,Tuesday,1
+454,2024-02-10,Rent,4924.89,Expense,UPI,2,February,10,Saturday,1
+455,2024-06-10,Shopping,4604.76,Expense,Net Banking,6,June,10,Monday,1
+456,2024-10-25,Shopping,4077.73,Expense,UPI,10,October,25,Friday,1
+457,2024-04-05,Travel,1531.9,Income,Net Banking,4,April,5,Friday,0
+458,2024-04-27,Shopping,2663.96,Expense,Cash,4,April,27,Saturday,1
+459,2024-09-19,Entertainment,3674.91,Income,Cash,9,September,19,Thursday,0
+460,2024-10-06,Entertainment,2771.59,Expense,UPI,10,October,6,Sunday,1
+461,2024-04-21,Food,2296.53,Income,UPI,4,April,21,Sunday,0
+462,2024-09-03,Bills,3948.77,Expense,UPI,9,September,3,Tuesday,1
+463,2024-03-22,Shopping,3038.9,Expense,Card,3,March,22,Friday,1
+464,2024-07-03,Rent,2810.76,Expense,Card,7,July,3,Wednesday,1
+465,2024-09-03,Rent,1303.37,Expense,Cash,9,September,3,Tuesday,1
+466,2024-06-21,Food,1116.42,Income,Cash,6,June,21,Friday,0
+467,2024-02-21,Entertainment,4818.69,Expense,Net Banking,2,February,21,Wednesday,1
+468,2024-08-04,Rent,4163.01,Expense,Cash,8,August,4,Sunday,1
+469,2024-03-13,Entertainment,2755.15,Expense,Cash,3,March,13,Wednesday,1
+470,2024-05-29,Bills,1978.03,Expense,Card,5,May,29,Wednesday,1
+471,2024-06-06,Bills,4005.19,Income,Card,6,June,6,Thursday,0
+472,2024-06-04,Food,4581.59,Expense,Net Banking,6,June,4,Tuesday,1
+473,2024-01-24,Travel,2982.81,Expense,Card,1,January,24,Wednesday,1
+474,2024-03-04,Entertainment,2309.56,Expense,Cash,3,March,4,Monday,1
+475,2024-11-24,Food,3529.65,Expense,UPI,11,November,24,Sunday,1
+476,2024-06-09,Food,1526.26,Income,Net Banking,6,June,9,Sunday,0
+477,2024-08-12,Rent,1796.66,Expense,UPI,8,August,12,Monday,1
+478,2024-11-04,Rent,4917.08,Expense,Card,11,November,4,Monday,1
+479,2024-10-10,Shopping,390.01,Expense,UPI,10,October,10,Thursday,1
+480,2024-08-13,Shopping,3524.02,Expense,Net Banking,8,August,13,Tuesday,1
+481,2024-12-24,Travel,2336.11,Income,Cash,12,December,24,Tuesday,0
+482,2024-01-05,Bills,1421.43,Expense,Cash,1,January,5,Friday,1
+483,2024-06-26,Entertainment,645.35,Expense,Net Banking,6,June,26,Wednesday,1
+484,2024-04-27,Bills,4274.6,Expense,UPI,4,April,27,Saturday,1
+485,2024-01-13,Entertainment,2797.12,Expense,Card,1,January,13,Saturday,1
+486,2024-02-25,Food,1210.49,Expense,Card,2,February,25,Sunday,1
+487,2024-11-27,Bills,3809.08,Expense,UPI,11,November,27,Wednesday,1
+488,2024-11-25,Shopping,3352.51,Expense,Card,11,November,25,Monday,1
+489,2024-01-31,Rent,3334.8,Expense,Cash,1,January,31,Wednesday,1
+490,2024-09-26,Rent,2671.5,Expense,UPI,9,September,26,Thursday,1
+491,2024-04-14,Travel,627.87,Expense,Cash,4,April,14,Sunday,1
+492,2024-12-04,Shopping,696.86,Income,UPI,12,December,4,Wednesday,0
+493,2024-07-06,Travel,3414.68,Expense,UPI,7,July,6,Saturday,1
+494,2024-03-07,Entertainment,1000.3,Expense,Net Banking,3,March,7,Thursday,1
+495,2024-12-21,Rent,2968.82,Expense,Net Banking,12,December,21,Saturday,1
+496,2024-05-21,Rent,507.06,Expense,Net Banking,5,May,21,Tuesday,1
+497,2024-01-14,Entertainment,4653.34,Expense,UPI,1,January,14,Sunday,1
+498,2024-03-01,Shopping,2512.2,Expense,Net Banking,3,March,1,Friday,1
+499,2024-06-29,Travel,3486.93,Expense,Cash,6,June,29,Saturday,1
+500,2024-03-23,Entertainment,4802.93,Expense,Card,3,March,23,Saturday,1
